@@ -1,9 +1,9 @@
 fdsfdsfsfsdfd
 aaa
 bbb
-<<<<<<< HEAD
+
 dddd
-=======
+
 cccc
 
 ffff
