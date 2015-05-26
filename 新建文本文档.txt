@@ -8,9 +8,9 @@ cccc
 
 ffff
 
-<<<<<<< HEAD
+
 eeeebbbbbbbbbbbbb
-=======
+
 eeeeaaaaaaaaaaaaaaaaaaaaaaaa
->>>>>>> origin/master
+
 
